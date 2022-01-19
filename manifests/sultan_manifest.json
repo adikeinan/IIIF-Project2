@@ -1,0 +1,190 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/sultan_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Sultan Baybars’ Qur’an Digitisation",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Over 2,000 pages in gold: Sultan Baybars’ Qur’an now online",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/share-your-work/public-domain/pdm/",
+  "attribution" : "British Library",
+  "sequences" : [ {
+    "@id" : "http://7921e05b-2307-4668-ad2d-41385524de65",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "paged",
+    "canvases" : [ {
+      "@id" : "http://3d52a47e-8912-461a-8e24-d28e8c63e3e4",
+      "@type" : "sc:Canvas",
+      "label" : "BL Add MS 22406 f.2v",
+      "height" : 8312,
+      "width" : 5855,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5f904713-dddf-4c80-bd96-6c5fece17c15",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056962232.0x00000c/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056962232.0x00000c",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 8312,
+          "width" : 5855
+        },
+        "on" : "http://3d52a47e-8912-461a-8e24-d28e8c63e3e4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d6b1288d-6964-4c76-96ac-e4e609ceaf33",
+      "@type" : "sc:Canvas",
+      "label" : "BL Add MS 22406 f.3r",
+      "height" : 8321,
+      "width" : 5814,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8e450c4f-7cce-4f08-8592-4034fec04d23",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056962232.0x00000d/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056962232.0x00000d",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 8321,
+          "width" : 5814
+        },
+        "on" : "http://d6b1288d-6964-4c76-96ac-e4e609ceaf33"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://87882ec0-855d-4951-9510-72ad9b56f614",
+      "@type" : "sc:Canvas",
+      "label" : "Elizabeth Hunter digitising Sultan Baybar's Qur'an",
+      "height" : 1024,
+      "width" : 768,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ed1a67e7-ecdb-4e85-81f5-2f6098dcbd56",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/quran-digitisation/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/quran-digitisation",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1024,
+          "width" : 768
+        },
+        "on" : "http://87882ec0-855d-4951-9510-72ad9b56f614"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cbd1c2ce-2723-49e8-9c29-7a53f48ca8a7",
+      "@type" : "sc:Canvas",
+      "label" : "BL Add MS 22412 f.166v",
+      "height" : 8789,
+      "width" : 5903,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c4a79651-f503-42aa-9b3f-f06cb7972750",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100057244898.0x000156/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100057244898.0x000156",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 8789,
+          "width" : 5903
+        },
+        "on" : "http://cbd1c2ce-2723-49e8-9c29-7a53f48ca8a7"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "id" : "https://iiif.io/api/cookbook/recipe/0024-book-4-toc/range/r0",
+    "type" : "Range",
+    "label" : {
+      "en" : [ "Table of Contents" ]
+    },
+    "items" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0024-book-4-toc/range/r1",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "f.2v" ]
+      },
+      "items" : [ {
+        "id" : "http://3d52a47e-8912-461a-8e24-d28e8c63e3e4",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://iiif.io/api/cookbook/recipe/0024-book-4-toc/canvas/p2",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://iiif.io/api/cookbook/recipe/0024-book-4-toc/range/r2",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "Two Images" ]
+      },
+      "items" : [ {
+        "id" : "https://iiif.io/api/cookbook/recipe/0024-book-4-toc/range/r2/1",
+        "type" : "Range",
+        "label" : {
+          "en" : [ "f.3r" ]
+        },
+        "items" : [ {
+          "id" : "http://d6b1288d-6964-4c76-96ac-e4e609ceaf33",
+          "type" : "Canvas"
+        }, {
+          "id" : "http://87882ec0-855d-4951-9510-72ad9b56f614",
+          "type" : "Canvas"
+        } ]
+      }, {
+        "id" : "https://iiif.io/api/cookbook/recipe/0024-book-4-toc/range/r2/2",
+        "type" : "Range",
+        "label" : {
+          "en" : [ "Elizabeth Hunter" ]
+        },
+        "items" : [ {
+          "id" : "http://87882ec0-855d-4951-9510-72ad9b56f614",
+          "type" : "Canvas"
+        }, {
+          "id" : "https://iiif.io/api/cookbook/recipe/0024-book-4-toc/canvas/p6",
+          "type" : "Canvas"
+        } ]
+      } ]
+    } ]
+  } ]
+}
