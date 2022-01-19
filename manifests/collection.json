@@ -1,0 +1,13 @@
+{
+  "id" : "https://adikeinan.github.io/IIIF-Project2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in adikeinan/IIIF-Project2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/sultan_manifest.json",
+    "label" : "Sultan Baybars’ Qur’an Digitisation"
+  } ]
+}
