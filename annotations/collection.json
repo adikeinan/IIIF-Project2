@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://adikeinan.github.io/IIIF-Project2/annotations/0b73b24f8ef760bbbab14c8449436d33.json" ],
+  "@id" : "https://adikeinan.github.io/IIIF-Project2/annotations/collection.json",
+  "label" : "All annotations loaded in adikeinan/IIIF-Project2 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
