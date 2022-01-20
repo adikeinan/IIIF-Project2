@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">Senior Imaging Technician Elizabeth Hunter",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">Senior Imaging Technician Elizabeth Hunter</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101424629411977980788",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T10:50:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642675854857",
+    "dcterms:modified" : "2022-01-20T10:50:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=-2,244,512,655"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M-2,243.76h255.93325v0h255.93325v327.37554v327.37554h-255.93325h-255.93325v-327.37554z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_748259f1-411e-4eed-b232-106646712692\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b9d093aa-b58b-46a1-965b-e3c6d60bc180"
+    } ]
+  } ],
+  "@id" : "https://adikeinan.github.io/IIIF-Project2/annotations/3ab2719b61ae7976ec4e0032cbb28680.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
