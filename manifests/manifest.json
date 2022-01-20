@@ -45,6 +45,11 @@
         },
         "on" : "http://356aff98-5eb9-45da-a499-e58ec3492c82"
       } ],
+      "otherContent": [ {
+        "@id": "https://adikeinan.github.io/IIIF-Project2/annotations/64174ba6f0ad628b20d832bf1e82ee31.json",
+        "@type": "sc:AnnotationList",
+        "label": "Adi Annotation 1"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://2d519ad9-af43-4fc7-b807-1757e1c93a5b",
