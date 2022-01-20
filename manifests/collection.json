@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/manifest.json",
     "label" : "Sultan Baybars’ Qur’an"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/test_anno_manifest.json",
-    "label" : "Sultan Baybars’ Qur’an"
   } ]
 }
