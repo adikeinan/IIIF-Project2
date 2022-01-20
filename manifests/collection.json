@@ -13,9 +13,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/annotated_manifest.json",
     "label" : "Sultan Baybars’ Qur’an - Annotated!"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/search_manifest.json",
-    "label" : "Sultan Baybars’ Qur’an - Annotated!"
   } ]
 }
