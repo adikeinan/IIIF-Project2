@@ -3,6 +3,11 @@
   "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/annotated_manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Sultan Baybars’ Qur’an - Annotated!",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "SEARCH_ID",
+    "@context": "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Over 2,000 pages in gold: Sultan Baybars’ Qur’an now online",
