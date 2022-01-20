@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://adikeinan.github.io/IIIF-Project2/annotations/0b73b24f8ef760bbbab14c8449436d33.json", "https://adikeinan.github.io/IIIF-Project2/annotations/3ab2719b61ae7976ec4e0032cbb28680.json", "https://adikeinan.github.io/IIIF-Project2/annotations/4ef580dd1fc1b31cf3ed70b8ffae40ca.json" ],
+  "otherContent" : [ "https://adikeinan.github.io/IIIF-Project2/annotations/0b73b24f8ef760bbbab14c8449436d33.json", "https://adikeinan.github.io/IIIF-Project2/annotations/3ab2719b61ae7976ec4e0032cbb28680.json", "https://adikeinan.github.io/IIIF-Project2/annotations/4ef580dd1fc1b31cf3ed70b8ffae40ca.json", "https://adikeinan.github.io/IIIF-Project2/annotations/5a27e1a198f563d937b395ab842a3784.json" ],
   "@id" : "https://adikeinan.github.io/IIIF-Project2/annotations/collection.json",
   "label" : "All annotations loaded in adikeinan/IIIF-Project2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
