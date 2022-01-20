@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/manifest.json",
+    "label" : "Sultan Baybars’ Qur’an"
+  } ]
 }
