@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">Detail of an illuminated pear-shaped medallion containing the word&nbsp;<em style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">khams<span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">&nbsp;in gold&nbsp;<em style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">kufic<span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">&nbsp;script indicating the end of a fifth verse (<a style=\"color: #0066ff; text-decoration-line: none; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\" href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100057226629.0x000001?&amp;_ga=2.197703151.1933841716.1642607444-1458020893.1630496159#?c=0&amp;m=0&amp;s=0&amp;cv=319&amp;xywh=0%2C-1637%2C6162%2C12061\" target=\"_blank\" rel=\"noopener noreferrer\">BL Add MS 22412, f. 156v<span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">Detail of an illuminated pear-shaped medallion containing the word&nbsp;</span><em style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">khams</em><span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">&nbsp;in gold&nbsp;</span><em style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">kufic</em><span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">&nbsp;script indicating the end of a fifth verse (</span><a style=\"color: #0066ff; text-decoration-line: none; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\" href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100057226629.0x000001?&amp;_ga=2.197703151.1933841716.1642607444-1458020893.1630496159#?c=0&amp;m=0&amp;s=0&amp;cv=319&amp;xywh=0%2C-1637%2C6162%2C12061\" target=\"_blank\" rel=\"noopener noreferrer\">BL Add MS 22412, f. 156v</a><span style=\"color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 13px;\">)</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/101424629411977980788",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T10:55:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642676125459",
+    "dcterms:modified" : "2022-01-20T10:55:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4599,1848,731,1381"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4598.90127,1847.68153h365.33121v0h365.33121v690.42675v690.42675h-365.33121h-365.33121v-690.42675z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fc362899-9311-4091-ab6b-650e52de4d31\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://45b4fd23-82cd-4cbb-93c4-4490d8463f99"
+    } ]
+  } ],
+  "@id" : "https://adikeinan.github.io/IIIF-Project2/annotations/10b25a336973abe18c8c89ee628f769c.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
