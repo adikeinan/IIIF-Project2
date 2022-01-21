@@ -17,5 +17,12 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/search_manifest.json",
     "label" : "Sultan Baybars’ Qur’an - Annotated and with Search API"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/final_manifest.json",
+    "label" : {
+      "@value" : "Joint QDL & Ambrosiana Mss",
+      "@language" : "en"
+    }
   } ]
 }
