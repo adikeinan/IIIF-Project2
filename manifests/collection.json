@@ -24,12 +24,5 @@
       "@value" : "Joint QDL & Ambrosiana Mss",
       "@language" : "en"
     }
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://adikeinan.github.io/IIIF-Project2/manifests/final_manifest_imgsize.json",
-    "label" : {
-      "@value" : "Joint QDL & Ambrosiana Mss",
-      "@language" : "en"
-    }
   } ]
 }
