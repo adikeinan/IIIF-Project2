@@ -96,924 +96,6 @@
     "@id" : "https://www.qdl.qa/en/iiif/81055/vdc_100073295641.0x000001/sequence",
     "@type" : "sc:Sequence",
     "canvases" : [ {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [1r] (38/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4300,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000b",
-          "@type" : "dctypes:Image",
-          "width" : 4300,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [1v] (39/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4414,
-      "height" : 5959,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000c",
-          "@type" : "dctypes:Image",
-          "width" : 4414,
-          "height" : 5959
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2",
-      "label" : {
-        "@value" : "Fragment of an astrological text [2r] (2/3)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4212,
-      "height" : 5951,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000d",
-          "@type" : "dctypes:Image",
-          "width" : 4212,
-          "height" : 5951
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2",
-      "label" : {
-        "@value" : "Fragment of an astrological text [2v] (3/3)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4397,
-      "height" : 5959,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000e",
-          "@type" : "dctypes:Image",
-          "width" : 4397,
-          "height" : 5959
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [3r] (20/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4231,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000f",
-          "@type" : "dctypes:Image",
-          "width" : 4231,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [3v] (21/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4397,
-      "height" : 5959,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000010",
-          "@type" : "dctypes:Image",
-          "width" : 4397,
-          "height" : 5959
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [4r] (22/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4231,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000011",
-          "@type" : "dctypes:Image",
-          "width" : 4231,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [4v] (23/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4349,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000012",
-          "@type" : "dctypes:Image",
-          "width" : 4349,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [5r] (24/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4196,
-      "height" : 5999,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000013",
-          "@type" : "dctypes:Image",
-          "width" : 4196,
-          "height" : 5999
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [5v] (25/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4400,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000014",
-          "@type" : "dctypes:Image",
-          "width" : 4400,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [6r] (26/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4029,
-      "height" : 5980,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000015",
-          "@type" : "dctypes:Image",
-          "width" : 4029,
-          "height" : 5980
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [6v] (27/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4349,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000016",
-          "@type" : "dctypes:Image",
-          "width" : 4349,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [7r] (28/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 3661,
-      "height" : 5373,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000017",
-          "@type" : "dctypes:Image",
-          "width" : 3661,
-          "height" : 5373
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [7v] (29/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4349,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000018",
-          "@type" : "dctypes:Image",
-          "width" : 4349,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [8r] (30/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4029,
-      "height" : 5980,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000019",
-          "@type" : "dctypes:Image",
-          "width" : 4029,
-          "height" : 5980
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [8v] (31/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4400,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001a",
-          "@type" : "dctypes:Image",
-          "width" : 4400,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [9r] (32/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4136,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001b",
-          "@type" : "dctypes:Image",
-          "width" : 4136,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [9v] (33/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4400,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001c",
-          "@type" : "dctypes:Image",
-          "width" : 4400,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [10r] (34/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4118,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001d",
-          "@type" : "dctypes:Image",
-          "width" : 4118,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [10v] (35/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4400,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001e",
-          "@type" : "dctypes:Image",
-          "width" : 4400,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [11r] (8/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4118,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001f",
-          "@type" : "dctypes:Image",
-          "width" : 4118,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [11v] (9/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4400,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000020",
-          "@type" : "dctypes:Image",
-          "width" : 4400,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [12r] (10/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4118,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000021",
-          "@type" : "dctypes:Image",
-          "width" : 4118,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [12v] (11/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4400,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000022",
-          "@type" : "dctypes:Image",
-          "width" : 4400,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [13r] (12/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4175,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000023",
-          "@type" : "dctypes:Image",
-          "width" : 4175,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [13v] (13/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4400,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000024",
-          "@type" : "dctypes:Image",
-          "width" : 4400,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [14r] (14/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4228,
-      "height" : 6012,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000025",
-          "@type" : "dctypes:Image",
-          "width" : 4228,
-          "height" : 6012
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [14v] (15/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4429,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000026",
-          "@type" : "dctypes:Image",
-          "width" : 4429,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [15r] (16/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4242,
-      "height" : 5959,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000027",
-          "@type" : "dctypes:Image",
-          "width" : 4242,
-          "height" : 5959
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [15v] (17/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4429,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000028",
-          "@type" : "dctypes:Image",
-          "width" : 4429,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [16r] (18/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4346,
-      "height" : 5959,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000029",
-          "@type" : "dctypes:Image",
-          "width" : 4346,
-          "height" : 5959
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [16v] (19/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4429,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00002a",
-          "@type" : "dctypes:Image",
-          "width" : 4429,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [17r] (36/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4346,
-      "height" : 5959,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00002b",
-          "@type" : "dctypes:Image",
-          "width" : 4346,
-          "height" : 5959
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2"
-      } ]
-    }, {
-      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2",
-      "label" : {
-        "@value" : "Kitāb al-azminah كتاب الأزمنة [17v] (37/39)",
-        "@language" : "en"
-      },
-      "@type" : "sc:Canvas",
-      "width" : 4429,
-      "height" : 5918,
-      "images" : [ {
-        "resource" : {
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "profile" : "http://iiif.io/api/image/1/level2.json",
-            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2"
-          },
-          "format" : "image/jpeg",
-          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00002c",
-          "@type" : "dctypes:Image",
-          "width" : 4429,
-          "height" : 5918
-        },
-        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2/annotation",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2"
-      } ]
-    }, {
       "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0044.jp2",
       "label" : {
         "@value" : "Fragment of a Christian prayer [18r] (1/2)",
@@ -1876,6 +958,924 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0075.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [11r] (8/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4118,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001f",
+          "@type" : "dctypes:Image",
+          "width" : 4118,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0030.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [11v] (9/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4400,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000020",
+          "@type" : "dctypes:Image",
+          "width" : 4400,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0031.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [12r] (10/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4118,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000021",
+          "@type" : "dctypes:Image",
+          "width" : 4118,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0032.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [12v] (11/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4400,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000022",
+          "@type" : "dctypes:Image",
+          "width" : 4400,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0033.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [13r] (12/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4175,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000023",
+          "@type" : "dctypes:Image",
+          "width" : 4175,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0034.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [13v] (13/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4400,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000024",
+          "@type" : "dctypes:Image",
+          "width" : 4400,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0035.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [14r] (14/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4228,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000025",
+          "@type" : "dctypes:Image",
+          "width" : 4228,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0036.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [14v] (15/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4429,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000026",
+          "@type" : "dctypes:Image",
+          "width" : 4429,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0037.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [15r] (16/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4242,
+      "height" : 5959,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000027",
+          "@type" : "dctypes:Image",
+          "width" : 4242,
+          "height" : 5959
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0038.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [15v] (17/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4429,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000028",
+          "@type" : "dctypes:Image",
+          "width" : 4429,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0039.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [16r] (18/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4346,
+      "height" : 5959,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000029",
+          "@type" : "dctypes:Image",
+          "width" : 4346,
+          "height" : 5959
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0040.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [16v] (19/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4429,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00002a",
+          "@type" : "dctypes:Image",
+          "width" : 4429,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0041.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [3r] (20/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4231,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000f",
+          "@type" : "dctypes:Image",
+          "width" : 4231,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0014.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [3v] (21/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4397,
+      "height" : 5959,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000010",
+          "@type" : "dctypes:Image",
+          "width" : 4397,
+          "height" : 5959
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0015.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [4r] (22/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4231,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000011",
+          "@type" : "dctypes:Image",
+          "width" : 4231,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0016.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [4v] (23/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4349,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000012",
+          "@type" : "dctypes:Image",
+          "width" : 4349,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0017.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [5r] (24/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4196,
+      "height" : 5999,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000013",
+          "@type" : "dctypes:Image",
+          "width" : 4196,
+          "height" : 5999
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0018.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [5v] (25/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4400,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000014",
+          "@type" : "dctypes:Image",
+          "width" : 4400,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0019.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [6r] (26/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4029,
+      "height" : 5980,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000015",
+          "@type" : "dctypes:Image",
+          "width" : 4029,
+          "height" : 5980
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0020.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [6v] (27/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4349,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000016",
+          "@type" : "dctypes:Image",
+          "width" : 4349,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0021.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [7r] (28/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 3661,
+      "height" : 5373,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000017",
+          "@type" : "dctypes:Image",
+          "width" : 3661,
+          "height" : 5373
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0022.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [7v] (29/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4349,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000018",
+          "@type" : "dctypes:Image",
+          "width" : 4349,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0023.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [8r] (30/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4029,
+      "height" : 5980,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x000019",
+          "@type" : "dctypes:Image",
+          "width" : 4029,
+          "height" : 5980
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0024.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [8v] (31/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4400,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001a",
+          "@type" : "dctypes:Image",
+          "width" : 4400,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0025.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [9r] (32/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4136,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001b",
+          "@type" : "dctypes:Image",
+          "width" : 4136,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0026.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [9v] (33/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4400,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001c",
+          "@type" : "dctypes:Image",
+          "width" : 4400,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0027.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [10r] (34/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4118,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001d",
+          "@type" : "dctypes:Image",
+          "width" : 4118,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0028.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [10v] (35/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4400,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00001e",
+          "@type" : "dctypes:Image",
+          "width" : 4400,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0029.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [17r] (36/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4346,
+      "height" : 5959,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00002b",
+          "@type" : "dctypes:Image",
+          "width" : 4346,
+          "height" : 5959
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0042.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [17v] (37/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4429,
+      "height" : 5918,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00002c",
+          "@type" : "dctypes:Image",
+          "width" : 4429,
+          "height" : 5918
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0043.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [1r] (38/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4300,
+      "height" : 6012,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000b",
+          "@type" : "dctypes:Image",
+          "width" : 4300,
+          "height" : 6012
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0010.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2",
+      "label" : {
+        "@value" : "Kitāb al-azminah كتاب الأزمنة [1v] (39/39)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4414,
+      "height" : 5959,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000c",
+          "@type" : "dctypes:Image",
+          "width" : 4414,
+          "height" : 5959
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0011.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2",
+      "label" : {
+        "@value" : "Fragment of an astrological text [2r] (2/3)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4212,
+      "height" : 5951,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000d",
+          "@type" : "dctypes:Image",
+          "width" : 4212,
+          "height" : 5951
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0012.jp2"
+      } ]
+    }, {
+      "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2",
+      "label" : {
+        "@value" : "Fragment of an astrological text [2v] (3/3)",
+        "@language" : "en"
+      },
+      "@type" : "sc:Canvas",
+      "width" : 4397,
+      "height" : 5959,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2"
+          },
+          "format" : "image/jpeg",
+          "@id" : "https://www.qdl.qa/en/archive/81055/vdc_100088125470.0x00000e",
+          "@type" : "dctypes:Image",
+          "width" : 4397,
+          "height" : 5959
+        },
+        "@id" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.qdl.qa/iiif/images/81055/vdc_100073295641.0x000001/OR_8857_0013.jp2"
       } ]
     }, {
       "@id" : "http://213.21.172.25/canvas/c0902da82800e65cb",
